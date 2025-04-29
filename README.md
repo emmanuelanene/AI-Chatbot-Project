@@ -24,3 +24,15 @@ This is a lightweight chatbot interface built with **Gradio** that connects to t
    ```bash
    git clone https://github.com/yourusername/zephyr-chatbot.git
    cd zephyr-chatbot
+
+2. Install dependencies
+   ```
+   pip install -r requirements.txt
+
+4. Create a .env file and add your Hugging Face API token:
+   ```
+   HUGGINGFACEHUB_API_TOKEN=your_token_here
+
+6. Run the app
+   ```
+   python app.py
