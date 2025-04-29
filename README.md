@@ -1,4 +1,4 @@
-# Zephyr Chatbot (Streaming LLM UI)
+# LLM-Powered Chatbot Using Hugging Face and Gradio
 
 This is a lightweight chatbot interface built with **Gradio** that connects to the **Zephyr 7B Beta** model via Hugging Face's inference API. It supports real-time token streaming and customizable generation settings.
 
